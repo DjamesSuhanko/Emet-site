@@ -1,0 +1,13 @@
+{
+  "catalog_version": 1,
+  "bibles": [
+    {
+      "id": "arc1969-sbb-pdf",
+      "title": "Almeida Revista e Corrigida 1969",
+      "language": "Português",
+      "description": "66 livros · Antigo e Novo Testamento",
+      "bytes": 8024064,
+      "manifest": "https://emet.clavesol.com.br/biblia/manifest.json"
+    }
+  ]
+}

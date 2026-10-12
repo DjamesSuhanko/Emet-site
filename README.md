@@ -1,12 +1,18 @@
-# Emet — distribuição
+# Emet · páginas públicas ClaveSol
 
-Repositório público separado do projeto privado VerbumDei. Hospeda a página do Emet e os arquivos estáticos usados pelo download da Bíblia. A leitura no aplicativo é offline.
+Site público do Emet, separado do projeto privado VerbumDei, usando o layout de Musicool.
 
-- Domínio: https://emet.clavesol.com.br
-- Manifesto: `/biblia/manifest.json`
-- Pacote v2: `/biblia/arc1969-v1.sqlite`
-- Publicação: GitHub Pages, branch `main`, diretório raiz.
+- Página: https://emet.clavesol.com.br/
+- Política: https://emet.clavesol.com.br/privacidade/
+- Contato: https://emet.clavesol.com.br/contato/
+- Catálogo: https://emet.clavesol.com.br/biblia/catalogo.json
 
-O pacote é uma prévia de desenvolvimento. O manifesto registra edição, versão do esquema, tamanho e SHA-256. Publique primeiro o novo pacote com nome versionado; depois atualize o manifesto. Não substitua silenciosamente o conteúdo de um arquivo versionado.
+## Publicação
 
-O repositório não contém o código-fonte do aplicativo ou dados pessoais dos usuários.
+`python3 -m pip install -r requirements.txt`, `python3 build.py`, `python3 scripts/check_site.py`.
+O workflow GitHub Actions publica exclusivamente `dist/` em Pages a cada push em `main`.
+
+Textos editáveis em `content/`; identidade visual em `templates/` e `assets/`.
+Para adicionar Bíblias, publique um novo pacote com nome versionado, seu manifesto e uma entrada em `biblia/catalogo.json`. O primeiro item será a seleção padrão no aplicativo. Cada pacote deve passar na validação do app (esquema v2, integridade, metadados e FTS5); favoritos são separados por edição. Não substitua arquivos de conteúdo versionados silenciosamente.
+
+Este repositório não contém código-fonte do aplicativo, chaves de assinatura ou dados pessoais.
