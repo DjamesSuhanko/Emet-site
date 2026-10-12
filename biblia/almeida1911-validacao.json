@@ -1,0 +1,25 @@
+{
+  "livros": 66,
+  "capitulos": 1189,
+  "versiculos": 31105,
+  "titulos": 1921,
+  "editoriais": 226,
+  "notas": 21964,
+  "notas_rodape": 21360,
+  "notas_fonte": 21360,
+  "paragrafos_conferidos": 31104,
+  "correcoes_estruturais": [
+    "Oseias 11:5 separado do parágrafo Ose11-4, sem alteração textual.",
+    "Marcos 4:34 identificado pela âncora Mar4-34 e sequência: o rótulo visível na fonte é 31."
+  ],
+  "integridade": "ok",
+  "manifest": {
+    "schema_version": 2,
+    "edition_id": "almeida-1911-gutenberg",
+    "content_version": "1",
+    "title": "Almeida 1911 — grafia original",
+    "url": "almeida1911-v1.sqlite",
+    "bytes": 14671872,
+    "sha256": "389b57ed793bccfdeec34f99f7a1b4296ef1c1f28d8eebc5624c3f5211d5630e"
+  }
+}

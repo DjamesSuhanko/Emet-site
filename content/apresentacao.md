@@ -13,8 +13,8 @@ No aplicativo, escolha a edição na lista e toque em **Baixar Bíblia seleciona
 | Edição | Idioma | Download |
 | --- | --- | --- |
 | Almeida Revista e Corrigida 1969 | Português | [Arquivo da Bíblia · 8 MB]({{BASE}}/biblia/arc1969-v1.sqlite) |
-
 | Bíblia Livre 2018 — Almeida 1819 atualizada | Português | [Arquivo da Bíblia · 7,95 MB]({{BASE}}/biblia/blivre2018-v1.sqlite) |
+| Almeida 1911 — grafia original | Português | [Arquivo da Bíblia · 14,67 MB]({{BASE}}/biblia/almeida1911-v1.sqlite) |
 
 Os arquivos podem ser importados pelo Emet. Não são instaladores do aplicativo.
 
@@ -28,3 +28,13 @@ O pacote USFX utilizado foi gerado em 8 de outubro de 2026, a partir de arquivos
 
 [Relatório de validação do pacote]({{BASE}}/biblia/blivre2018-validacao.json).
 
+
+### Sobre a Almeida 1911
+
+Tradução de **João Ferreira d’Almeida**, edição de Lisboa de 1911; a folha de rosto informa primeira edição em 1900 e reimpressão em 1911. Fonte: [Project Gutenberg, livro 62383](https://www.gutenberg.org/ebooks/62383). Transcrição de Júlio Reis, abi278, Sergio Queiroz e Online Distributed Proofreading Team, com imagens de Faithofgod.net.
+
+Preservamos a grafia histórica, 31.105 versículos, 1.921 títulos e 226 elementos editoriais. As notas de rodapé, referências e cronologia ficam separadas do texto bíblico e ainda não são exibidas no aplicativo. Espaços foram normalizados e a apresentação em itálico não é reproduzida.
+
+Foram corrigidos dois problemas de marcação da fonte: Oseias 11:5 estava dentro do parágrafo de 11:4; Marcos 4:34 estava rotulado como “31”, embora a âncora e a sequência indicassem 34. O texto dos versículos foi mantido.
+
+[Créditos e termos da fonte]({{BASE}}/biblia/almeida1911-creditos.txt) · [Relatório de validação]({{BASE}}/biblia/almeida1911-validacao.json).
