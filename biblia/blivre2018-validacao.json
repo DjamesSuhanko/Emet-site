@@ -1,0 +1,20 @@
+{
+  "livros": 66,
+  "capitulos": 1189,
+  "versiculos": 31102,
+  "titulos": 0,
+  "sobrescritos": 115,
+  "notas": 1456,
+  "versiculos_conferidos": 31102,
+  "integridade": "ok",
+  "pesquisa_vida_eterna": 45,
+  "manifest": {
+    "schema_version": 2,
+    "edition_id": "blivre-2018",
+    "content_version": "1",
+    "title": "Bíblia Livre 2018 — Almeida 1819 atualizada",
+    "url": "blivre2018-v1.sqlite",
+    "bytes": 7946240,
+    "sha256": "952d662381da035be17ece6f4ca112ea71f80d2b25659d53f73a43a2219fc488"
+  }
+}

@@ -8,6 +8,14 @@
       "description": "66 livros · Antigo e Novo Testamento",
       "bytes": 8024064,
       "manifest": "https://emet.clavesol.com.br/biblia/manifest.json"
+    },
+    {
+      "id": "blivre-2018",
+      "title": "Bíblia Livre 2018 — Almeida 1819 atualizada",
+      "language": "Português",
+      "description": "66 livros · Base Almeida 1819, atualização 2018. © Diego Santos, Mario Sérgio e Marco Teles. CC BY 4.0 — creativecommons.org/licenses/by/4.0/. Fonte: ebible.org/porbr2018/.",
+      "bytes": 7946240,
+      "manifest": "https://emet.clavesol.com.br/biblia/blivre2018-manifest.json"
     }
   ]
 }
