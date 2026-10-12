@@ -1,0 +1,112 @@
+{
+  "livros": 66,
+  "capitulos": 1189,
+  "versiculos": 31084,
+  "titulos": 0,
+  "editoriais": 0,
+  "notas": 0,
+  "fim_versiculo_implicito": 137,
+  "marcadores_vazios": [
+    [
+      "NUM",
+      12,
+      16
+    ],
+    [
+      "NUM",
+      29,
+      40
+    ],
+    [
+      "1SA",
+      23,
+      29
+    ],
+    [
+      "2SA",
+      20,
+      26
+    ],
+    [
+      "2CH",
+      33,
+      25
+    ],
+    [
+      "JOB",
+      35,
+      16
+    ],
+    [
+      "JOB",
+      38,
+      39
+    ],
+    [
+      "JOB",
+      38,
+      40
+    ],
+    [
+      "JOB",
+      38,
+      41
+    ],
+    [
+      "JOB",
+      40,
+      20
+    ],
+    [
+      "JOB",
+      40,
+      21
+    ],
+    [
+      "JOB",
+      40,
+      22
+    ],
+    [
+      "JOB",
+      40,
+      23
+    ],
+    [
+      "JOB",
+      40,
+      24
+    ],
+    [
+      "HOS",
+      11,
+      12
+    ],
+    [
+      "JON",
+      1,
+      17
+    ],
+    [
+      "ACT",
+      19,
+      41
+    ],
+    [
+      "2CO",
+      13,
+      14
+    ]
+  ],
+  "marcadores_conferidos": 31102,
+  "integridade": "ok",
+  "manifest": {
+    "schema_version": 2,
+    "edition_id": "reina-valera-1909",
+    "content_version": "1",
+    "title": "Reina Valera 1909",
+    "url": "rv1909-v1.sqlite",
+    "bytes": 7753728,
+    "sha256": "2eeb34188fc88f04e1b6bcb83e6067378018b2aef80f5758aa95a230570b8eef"
+  }
+}

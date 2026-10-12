@@ -1,0 +1,21 @@
+{
+  "livros": 66,
+  "capitulos": 1189,
+  "versiculos": 31102,
+  "titulos": 0,
+  "editoriais": 138,
+  "notas": 6973,
+  "fim_versiculo_implicito": 0,
+  "marcadores_vazios": [],
+  "marcadores_conferidos": 31102,
+  "integridade": "ok",
+  "manifest": {
+    "schema_version": 2,
+    "edition_id": "kjv-1769",
+    "content_version": "1",
+    "title": "King James Version — 1769",
+    "url": "kjv1769-v1.sqlite",
+    "bytes": 8466432,
+    "sha256": "eef21d707df2a4d7882b345cc14633c70fe51a1a5d1f67cc119c62438f44efbc"
+  }
+}

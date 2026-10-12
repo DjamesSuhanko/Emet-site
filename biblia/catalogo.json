@@ -24,6 +24,22 @@
       "description": "66 livros · Edição de Lisboa, 1911 · Grafia histórica e títulos originais. Tradução de João Ferreira d’Almeida. Fonte: gutenberg.org/ebooks/62383.",
       "bytes": 14671872,
       "manifest": "https://emet.clavesol.com.br/biblia/almeida1911-manifest.json"
+    },
+    {
+      "id": "kjv-1769",
+      "title": "King James Version — 1769",
+      "language": "English",
+      "description": "66 books · Standardized text of 1769. Source: eBible.org / CrossWire Bible Society.",
+      "bytes": 8466432,
+      "manifest": "https://emet.clavesol.com.br/biblia/kjv1769-manifest.json"
+    },
+    {
+      "id": "reina-valera-1909",
+      "title": "Reina Valera 1909",
+      "language": "Español",
+      "description": "66 libros · Reina y Valera, 1909. Fuente: eBible.org. Numeración conservada de la fuente.",
+      "bytes": 7753728,
+      "manifest": "https://emet.clavesol.com.br/biblia/rv1909-manifest.json"
     }
   ]
 }

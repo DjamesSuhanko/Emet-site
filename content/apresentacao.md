@@ -15,6 +15,8 @@ No aplicativo, escolha a edição na lista e toque em **Baixar Bíblia seleciona
 | Almeida Revista e Corrigida 1969 | Português | [Arquivo da Bíblia · 8 MB]({{BASE}}/biblia/arc1969-v1.sqlite) |
 | Bíblia Livre 2018 — Almeida 1819 atualizada | Português | [Arquivo da Bíblia · 7,95 MB]({{BASE}}/biblia/blivre2018-v1.sqlite) |
 | Almeida 1911 — grafia original | Português | [Arquivo da Bíblia · 14,67 MB]({{BASE}}/biblia/almeida1911-v1.sqlite) |
+| King James Version — 1769 | Inglês | [Arquivo da Bíblia · 8,47 MB]({{BASE}}/biblia/kjv1769-v1.sqlite) |
+| Reina Valera 1909 | Espanhol | [Arquivo da Bíblia · 7,75 MB]({{BASE}}/biblia/rv1909-v1.sqlite) |
 
 Os arquivos podem ser importados pelo Emet. Não são instaladores do aplicativo.
 
@@ -38,3 +40,11 @@ Preservamos a grafia histórica, 31.105 versículos, 1.921 títulos e 226 elemen
 Foram corrigidos dois problemas de marcação da fonte: Oseias 11:5 estava dentro do parágrafo de 11:4; Marcos 4:34 estava rotulado como “31”, embora a âncora e a sequência indicassem 34. O texto dos versículos foi mantido.
 
 [Créditos e termos da fonte]({{BASE}}/biblia/almeida1911-creditos.txt) · [Relatório de validação]({{BASE}}/biblia/almeida1911-validacao.json).
+
+### King James Version e Reina Valera 1909
+
+A **King James Version** utiliza o texto padronizado de 1769, em inglês, fornecido por eBible.org e CrossWire Bible Society. São 31.102 versículos, 138 sobrescritos/acrósticos e 6.973 notas e subscrições. [Créditos e condições da fonte]({{BASE}}/biblia/kjv1769-creditos.txt) · [Validação]({{BASE}}/biblia/kjv1769-validacao.json).
+
+A **Reina Valera 1909** conserva a grafia espanhola e a numeração do USFX fornecido por eBible.org. O arquivo tem 31.102 marcadores, dos quais 18 estão vazios, ao final de capítulos. O banco contém os 31.084 registros com texto, sem preenchimentos artificiais. Por exemplo, o conteúdo de Números 12:16 em outras numerações aparece em Números 13:1 nesta fonte. [Créditos da fonte]({{BASE}}/biblia/rv1909-creditos.txt) · [Validação e marcadores vazios]({{BASE}}/biblia/rv1909-validacao.json).
+
+Os nomes dos livros permanecem no idioma de cada edição. As palavras foram preservadas e os espaços normalizados; estilos e números de Strong não são exibidos. Não foram criados títulos temáticos ausentes nas fontes. As notas da KJV ficam armazenadas separadamente, ainda sem interface de leitura.
