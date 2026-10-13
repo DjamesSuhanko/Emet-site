@@ -8,15 +8,15 @@ Favoritos, marcações e preferências permanecem no seu aparelho, separados do 
 
 ## Bíblias disponíveis
 
-No aplicativo, escolha a edição na lista e toque em **Baixar Bíblia selecionada**. O download é verificado antes da instalação. Use **Atualizar lista de Bíblias** para consultar novas edições.
+No aplicativo, abra **Bíblia selecionada** e escolha uma edição na lista agrupada por idioma e toque em **Baixar Bíblia selecionada**. O download é verificado antes da instalação. Use **Atualizar lista de Bíblias** para consultar novas edições.
 
 | Edição | Idioma | Download |
 | --- | --- | --- |
-| Almeida Revista e Corrigida 1969 | Português | [Arquivo da Bíblia · 8 MB]({{BASE}}/biblia/arc1969-v1.sqlite) |
-| Bíblia Livre 2018 — Almeida 1819 atualizada | Português | [Arquivo da Bíblia · 7,95 MB]({{BASE}}/biblia/blivre2018-v1.sqlite) |
-| Almeida 1911 — grafia original | Português | [Arquivo da Bíblia · 14,67 MB]({{BASE}}/biblia/almeida1911-v1.sqlite) |
-| King James Version — 1769 | Inglês | [Arquivo da Bíblia · 8,47 MB]({{BASE}}/biblia/kjv1769-v1.sqlite) |
-| Reina Valera 1909 | Espanhol | [Arquivo da Bíblia · 7,75 MB]({{BASE}}/biblia/rv1909-v1.sqlite) |
+| Almeida Revista e Corrigida 1969 | Português | [Arquivo da Bíblia · 8 MB]({{BASE}}/biblia/pt-arc1969-v1.sqlite) |
+| Bíblia Livre 2018 — Almeida 1819 atualizada | Português | [Arquivo da Bíblia · 7,95 MB]({{BASE}}/biblia/pt-blivre2018-v1.sqlite) |
+| Almeida 1911 — grafia original | Português | [Arquivo da Bíblia · 14,67 MB]({{BASE}}/biblia/pt-almeida1911-v1.sqlite) |
+| King James Version — 1769 | Inglês | [Arquivo da Bíblia · 8,47 MB]({{BASE}}/biblia/en-kjv1769-v1.sqlite) |
+| Reina Valera 1909 | Espanhol | [Arquivo da Bíblia · 7,75 MB]({{BASE}}/biblia/es-rv1909-v1.sqlite) |
 
 Os arquivos podem ser importados pelo Emet. Não são instaladores do aplicativo.
 

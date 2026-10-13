@@ -7,7 +7,8 @@
       "language": "Português",
       "description": "66 livros · Antigo e Novo Testamento",
       "bytes": 8024064,
-      "manifest": "https://emet.clavesol.com.br/biblia/manifest.json"
+      "manifest": "https://emet.clavesol.com.br/biblia/pt-arc1969-manifest.json",
+      "language_code": "pt"
     },
     {
       "id": "blivre-2018",
@@ -15,7 +16,8 @@
       "language": "Português",
       "description": "66 livros · Base Almeida 1819, atualização 2018. © Diego Santos, Mario Sérgio e Marco Teles. CC BY 4.0 — creativecommons.org/licenses/by/4.0/. Fonte: ebible.org/porbr2018/.",
       "bytes": 7946240,
-      "manifest": "https://emet.clavesol.com.br/biblia/blivre2018-manifest.json"
+      "manifest": "https://emet.clavesol.com.br/biblia/pt-blivre2018-manifest.json",
+      "language_code": "pt"
     },
     {
       "id": "almeida-1911-gutenberg",
@@ -23,7 +25,8 @@
       "language": "Português",
       "description": "66 livros · Edição de Lisboa, 1911 · Grafia histórica e títulos originais. Tradução de João Ferreira d’Almeida. Fonte: gutenberg.org/ebooks/62383.",
       "bytes": 14671872,
-      "manifest": "https://emet.clavesol.com.br/biblia/almeida1911-manifest.json"
+      "manifest": "https://emet.clavesol.com.br/biblia/pt-almeida1911-manifest.json",
+      "language_code": "pt"
     },
     {
       "id": "kjv-1769",
@@ -31,7 +34,8 @@
       "language": "English",
       "description": "66 books · Standardized text of 1769. Source: eBible.org / CrossWire Bible Society.",
       "bytes": 8466432,
-      "manifest": "https://emet.clavesol.com.br/biblia/kjv1769-manifest.json"
+      "manifest": "https://emet.clavesol.com.br/biblia/en-kjv1769-manifest.json",
+      "language_code": "en"
     },
     {
       "id": "reina-valera-1909",
@@ -39,7 +43,8 @@
       "language": "Español",
       "description": "66 libros · Reina y Valera, 1909. Fuente: eBible.org. Numeración conservada de la fuente.",
       "bytes": 7753728,
-      "manifest": "https://emet.clavesol.com.br/biblia/rv1909-manifest.json"
+      "manifest": "https://emet.clavesol.com.br/biblia/es-rv1909-manifest.json",
+      "language_code": "es"
     }
   ]
 }
