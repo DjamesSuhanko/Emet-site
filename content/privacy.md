@@ -3,7 +3,7 @@
 **Aplicativo:** Emet  
 **Desenvolvedor responsável:** Djames Suhanko — ClaveSol  
 **Contato:** [djames.suhanko@gmail.com](mailto:djames.suhanko@gmail.com)  
-**Última atualização:** 12 de outubro de 2026
+**Última atualização:** 13 de outubro de 2026
 
 ## Como o Emet funciona
 
@@ -13,7 +13,7 @@ O aplicativo não contém anúncios, ferramentas de análise de comportamento, i
 
 ## Informações armazenadas no aparelho
 
-O Emet armazena localmente a Bíblia instalada, o catálogo de edições, favoritos, cores de marcação, última posição de leitura, tamanho da letra e preferência de tema. As pesquisas são processadas no aparelho e não são enviadas ao desenvolvedor. O aplicativo não mantém um histórico persistente das palavras pesquisadas.
+O Emet armazena localmente as Bíblias instaladas, o catálogo de edições, favoritos, cores de marcação, última posição de leitura por edição, tamanho da letra e preferência de tema. As pesquisas são processadas no aparelho e não são enviadas ao desenvolvedor. O aplicativo não mantém um histórico persistente das palavras pesquisadas.
 
 Esses dados ficam na área privada do aplicativo. Favoritos e marcações são separados do arquivo bíblico, para serem preservados quando você remove ou substitui o download. O Emet não oferece sincronização de dados pessoais com um servidor nem entre dispositivos.
 
@@ -31,7 +31,7 @@ Os downloads são conferidos quanto ao tamanho, hash de integridade e compatibil
 
 O aplicativo usa acesso à internet e ao estado da rede para seus recursos de download. Não solicita acesso à localização, câmera, microfone, contatos, telefone ou identificador de publicidade.
 
-Se você escolher **Importar arquivo da Bíblia**, o seletor de arquivos do Android permite selecionar um arquivo específico. O Emet lê esse arquivo para validá-lo e copiá-lo para sua área privada; ele não precisa de acesso geral aos arquivos do aparelho.
+A opção **Selecionar Bíblia** lista os downloads já guardados na área privada do aplicativo. Alternar entre essas edições não envia dados à internet e não exige acesso geral aos arquivos do aparelho.
 
 ## Site e links externos
 
@@ -45,7 +45,7 @@ Se você enviar um e-mail, seu endereço e as informações fornecidas serão ut
 
 ## Retenção e exclusão
 
-Os dados locais permanecem no aparelho enquanto você usar o aplicativo, até que sejam removidos por você. Um favorito pode ser removido na aba **Salvos** ou nas ações do versículo; a cor pode ser removida nas ações do versículo. **Remover download** apaga apenas a Bíblia instalada, preservando os dados pessoais.
+Os dados locais permanecem no aparelho enquanto você usar o aplicativo, até que sejam removidos por você. Um favorito pode ser removido na aba **Salvos** ou nas ações do versículo; a cor pode ser removida nas ações do versículo. **Remover Downloads** permite selecionar quais Bíblias excluir ou usar **Excluir todos** para apagar todos os arquivos bíblicos baixados, preservando favoritos, marcações e preferências.
 
 Para apagar todos os dados locais, incluindo preferências, favoritos e marcações, use **Limpar dados/armazenamento** nas configurações do Android para o Emet ou desinstale o aplicativo. Não há conta online a ser excluída. O desenvolvedor não possui uma cópia dos seus dados de leitura e não consegue recuperá-los após a exclusão.
 
