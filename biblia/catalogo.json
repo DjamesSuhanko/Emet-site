@@ -45,6 +45,24 @@
       "bytes": 7753728,
       "manifest": "https://emet.clavesol.com.br/biblia/es-rv1909-manifest.json",
       "language_code": "es"
+    },
+    {
+      "id": "ostervald-fra-fob",
+      "title": "La Sainte Bible — Ostervald",
+      "language": "Français",
+      "language_code": "fr",
+      "description": "66 livres · Traduction Ostervald. Source : eBible.org/fra_fob. Texte et orthographe conservés.",
+      "bytes": 8339456,
+      "manifest": "https://emet.clavesol.com.br/biblia/fr-ostervald-manifest.json"
+    },
+    {
+      "id": "diodati-1885",
+      "title": "Diodati Bibbia 1885",
+      "language": "Italiano",
+      "language_code": "it",
+      "description": "66 libri · Diodati Bibbia 1885. Fonte: eBible.org/ita1885. Testo, ortografia e titoli conservati.",
+      "bytes": 10719232,
+      "manifest": "https://emet.clavesol.com.br/biblia/it-diodati1885-manifest.json"
     }
   ]
 }

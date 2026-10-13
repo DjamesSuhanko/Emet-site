@@ -17,6 +17,8 @@ No aplicativo, abra **Bíblia selecionada** e escolha uma edição na lista agru
 | Almeida 1911 — grafia original | Português | [Arquivo da Bíblia · 14,67 MB]({{BASE}}/biblia/pt-almeida1911-v1.sqlite) |
 | King James Version — 1769 | Inglês | [Arquivo da Bíblia · 8,47 MB]({{BASE}}/biblia/en-kjv1769-v1.sqlite) |
 | Reina Valera 1909 | Espanhol | [Arquivo da Bíblia · 7,75 MB]({{BASE}}/biblia/es-rv1909-v1.sqlite) |
+| La Sainte Bible — Ostervald | Francês | [Arquivo da Bíblia · 8,34 MB]({{BASE}}/biblia/fr-ostervald-v1.sqlite) |
+| Diodati Bibbia 1885 | Italiano | [Arquivo da Bíblia · 10,72 MB]({{BASE}}/biblia/it-diodati1885-v1.sqlite) |
 
 Os arquivos podem ser importados pelo Emet. Não são instaladores do aplicativo.
 
@@ -48,3 +50,11 @@ A **King James Version** utiliza o texto padronizado de 1769, em inglês, fornec
 A **Reina Valera 1909** conserva a grafia espanhola e a numeração do USFX fornecido por eBible.org. O arquivo tem 31.102 marcadores, dos quais 18 estão vazios, ao final de capítulos. O banco contém os 31.084 registros com texto, sem preenchimentos artificiais. Por exemplo, o conteúdo de Números 12:16 em outras numerações aparece em Números 13:1 nesta fonte. [Créditos da fonte]({{BASE}}/biblia/rv1909-creditos.txt) · [Validação e marcadores vazios]({{BASE}}/biblia/rv1909-validacao.json).
 
 Os nomes dos livros permanecem no idioma de cada edição. As palavras foram preservadas e os espaços normalizados; estilos e números de Strong não são exibidos. Não foram criados títulos temáticos ausentes nas fontes. As notas da KJV ficam armazenadas separadamente, ainda sem interface de leitura.
+
+### Ostervald e Diodati
+
+**La Sainte Bible — Ostervald**, em francês, foi convertida do USFM `fra_fob` fornecido por eBible.org. São 66 livros, 1.189 capítulos e 31.107 versículos. A fonte não contém títulos de seções. Palavras e grafia foram preservadas, com normalização dos espaços e remoção das marcações lexicais da apresentação. [Créditos da fonte]({{BASE}}/biblia/fr-ostervald-creditos.txt) · [Validação]({{BASE}}/biblia/fr-ostervald-validacao.json).
+
+**Diodati Bibbia 1885**, em italiano, corresponde ao pacote `ita1885`. A fonte identifica a tradução de Giovanni Diodati de 1641, revisada em 1821, sob esse título de edição. São 66 livros, 1.189 capítulos, 31.095 versículos, 1.678 títulos e 118 elementos editoriais. As 18.145 notas e referências estão preservadas separadamente no banco, ainda sem interface de leitura. [Créditos da fonte]({{BASE}}/biblia/it-diodati1885-creditos.txt) · [Validação]({{BASE}}/biblia/it-diodati1885-validacao.json).
+
+Os nomes dos livros seguem o idioma da edição. Linhas poéticas foram reunidas com espaços, sem remover suas palavras; estilos tipográficos não são reproduzidos. As contagens seguem a numeração de cada fonte, sem forçar correspondência com outras traduções.

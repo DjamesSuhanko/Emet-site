@@ -1,0 +1,19 @@
+{
+  "livros": 66,
+  "capitulos": 1189,
+  "versiculos": 31095,
+  "titulos": 1678,
+  "editoriais": 118,
+  "notas": 18145,
+  "versiculos_conferidos": 31095,
+  "integridade": "ok",
+  "manifest": {
+    "schema_version": 2,
+    "edition_id": "diodati-1885",
+    "content_version": "1",
+    "title": "Diodati Bibbia 1885",
+    "url": "it-diodati1885-v1.sqlite",
+    "bytes": 10719232,
+    "sha256": "19fb0338f0276d15b800193f514993ceb8672ece35cd939afdf79dbc77179ebe"
+  }
+}
