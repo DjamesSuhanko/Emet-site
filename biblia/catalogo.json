@@ -63,6 +63,15 @@
       "description": "66 libri · Diodati Bibbia 1885. Fonte: eBible.org/ita1885. Testo, ortografia e titoli conservati.",
       "bytes": 10719232,
       "manifest": "https://emet.clavesol.com.br/biblia/it-diodati1885-manifest.json"
+    },
+    {
+      "id": "arabic-van-dyck",
+      "title": "الكتاب المقدس — فان دايك",
+      "language": "العربية",
+      "language_code": "ar",
+      "description": "Van Dyck · 66 livros · Árabe com vocalização original. Fonte: eBible.org/arb-vd. Pesquisa com e sem sinais vocálicos.",
+      "bytes": 34582528,
+      "manifest": "https://emet.clavesol.com.br/biblia/ar-vandyck-manifest.json"
     }
   ]
 }

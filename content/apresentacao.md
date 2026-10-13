@@ -19,6 +19,7 @@ No aplicativo, abra **Bíblia selecionada** e escolha uma edição na lista agru
 | Reina Valera 1909 | Espanhol | [Arquivo da Bíblia · 7,75 MB]({{BASE}}/biblia/es-rv1909-v1.sqlite) |
 | La Sainte Bible — Ostervald | Francês | [Arquivo da Bíblia · 8,34 MB]({{BASE}}/biblia/fr-ostervald-v1.sqlite) |
 | Diodati Bibbia 1885 | Italiano | [Arquivo da Bíblia · 10,72 MB]({{BASE}}/biblia/it-diodati1885-v1.sqlite) |
+| Van Dyck — الكتاب المقدس | Árabe | [Arquivo da Bíblia · 34.58 MB]({{BASE}}/biblia/ar-vandyck-v1.sqlite) |
 
 Os arquivos podem ser importados pelo Emet. Não são instaladores do aplicativo.
 
@@ -58,3 +59,11 @@ Os nomes dos livros permanecem no idioma de cada edição. As palavras foram pre
 **Diodati Bibbia 1885**, em italiano, corresponde ao pacote `ita1885`. A fonte identifica a tradução de Giovanni Diodati de 1641, revisada em 1821, sob esse título de edição. São 66 livros, 1.189 capítulos, 31.095 versículos, 1.678 títulos e 118 elementos editoriais. As 18.145 notas e referências estão preservadas separadamente no banco, ainda sem interface de leitura. [Créditos da fonte]({{BASE}}/biblia/it-diodati1885-creditos.txt) · [Validação]({{BASE}}/biblia/it-diodati1885-validacao.json).
 
 Os nomes dos livros seguem o idioma da edição. Linhas poéticas foram reunidas com espaços, sem remover suas palavras; estilos tipográficos não são reproduzidos. As contagens seguem a numeração de cada fonte, sem forçar correspondência com outras traduções.
+
+### Van Dyck em árabe
+
+A edição **الكتاب المقدس — فان دايك** foi convertida do pacote USFM `arb-vd` de eBible.org. A fonte identifica a Syrian Mission como tradutora e a American Bible Society como contribuinte. São 66 livros, 1.189 capítulos, 31.104 versículos, 1.998 títulos e 145 elementos editoriais.
+
+O texto exibido conserva as letras e os sinais de vocalização originais, com normalização apenas dos espaços e das quebras de linha. A apresentação árabe usa a direção natural da escrita; a interface do aplicativo continua em português. A busca tem campos separados para o texto original, uma forma sem sinais vocálicos/tatweel e com alif-wasla simplificado, e outra com variantes de alif normalizadas. Esses campos não alteram o conteúdo lido ou copiado. Uma expressão parcialmente vocalizada pode exigir a escrita integral da fonte ou a remoção dos sinais para corresponder a um dos campos.
+
+[Créditos da fonte]({{BASE}}/biblia/ar-vandyck-creditos.txt) · [Validação]({{BASE}}/biblia/ar-vandyck-validacao.json).

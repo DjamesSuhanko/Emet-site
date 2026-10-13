@@ -1,0 +1,19 @@
+{
+  "livros": 66,
+  "capitulos": 1189,
+  "versiculos": 31104,
+  "titulos": 1998,
+  "editoriais": 145,
+  "notas": 0,
+  "versiculos_conferidos": 31104,
+  "integridade": "ok",
+  "manifest": {
+    "schema_version": 2,
+    "edition_id": "arabic-van-dyck",
+    "content_version": "1",
+    "title": "الكتاب المقدس — فان دايك",
+    "url": "ar-vandyck-v1.sqlite",
+    "bytes": 34582528,
+    "sha256": "3ccc535539ab8471983bbe243bb23bea3a73fbedb4b2b777b236fd89766602e7"
+  }
+}
