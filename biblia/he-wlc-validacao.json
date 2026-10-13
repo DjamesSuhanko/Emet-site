@@ -1,0 +1,22 @@
+{
+  "livros": 39,
+  "capitulos": 929,
+  "versiculos": 23213,
+  "notas": 0,
+  "colofones": 0,
+  "blocos_anotados": 299878,
+  "com_strong": 299796,
+  "com_morfologia": 2352,
+  "documentos": 39,
+  "versiculos_conferidos": 23213,
+  "integridade": "ok",
+  "manifest": {
+    "schema_version": 2,
+    "edition_id": "wlc-massoretic",
+    "content_version": "1",
+    "title": "Texto Massorético — Westminster Leningrad Codex",
+    "url": "he-wlc-v1.sqlite",
+    "bytes": 49614848,
+    "sha256": "4ba716b702591b77427a74dde7976fcd8a1b5712363f4f8d2b78224b4e6d52f7"
+  }
+}

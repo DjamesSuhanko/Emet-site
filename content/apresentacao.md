@@ -8,7 +8,7 @@ Favoritos, marcações e preferências permanecem no seu aparelho, separados do 
 
 ## Bíblias disponíveis
 
-No aplicativo, abra **Bíblia selecionada** e escolha uma edição na lista agrupada por idioma e toque em **Baixar Bíblia selecionada**. O download é verificado antes da instalação. Use **Atualizar lista de Bíblias** para consultar novas edições.
+No aplicativo, abra **Disponíveis para download** e escolha uma edição na lista agrupada por idioma e toque em **Baixar Bíblia selecionada**. O download é verificado antes da instalação. Use **Atualizar lista de Bíblias** para consultar novas edições.
 
 | Edição | Idioma | Download |
 | --- | --- | --- |
@@ -20,8 +20,12 @@ No aplicativo, abra **Bíblia selecionada** e escolha uma edição na lista agru
 | La Sainte Bible — Ostervald | Francês | [Arquivo da Bíblia · 8,34 MB]({{BASE}}/biblia/fr-ostervald-v1.sqlite) |
 | Diodati Bibbia 1885 | Italiano | [Arquivo da Bíblia · 10,72 MB]({{BASE}}/biblia/it-diodati1885-v1.sqlite) |
 | Van Dyck — الكتاب المقدس | Árabe | [Arquivo da Bíblia · 34.58 MB]({{BASE}}/biblia/ar-vandyck-v1.sqlite) |
+| Texto Massorético — Westminster Leningrad Codex | Hebraico | [Arquivo · 49,61 MB]({{BASE}}/biblia/he-wlc-v1.sqlite) |
+| Textus Receptus — edição de Adam Boyd | Grego antigo | [Arquivo · 19,78 MB]({{BASE}}/biblia/grc-textusreceptus-v1.sqlite) |
 
-Os arquivos podem ser importados pelo Emet. Não são instaladores do aplicativo.
+O Emet baixa os arquivos diretamente pelo catálogo. Eles contêm os textos e não são instaladores do aplicativo.
+
+As edições baixadas permanecem no aparelho, inclusive os textos em hebraico e grego. A última edição baixada entra em uso automaticamente. Em **Selecionar Bíblia**, alterne entre as instaladas. **Remover Downloads** permite excluir edições selecionadas ou todos os downloads, preservando favoritos e marcações.
 
 ### Sobre a Bíblia Livre
 
@@ -67,3 +71,12 @@ A edição **الكتاب المقدس — فان دايك** foi convertida do p
 O texto exibido conserva as letras e os sinais de vocalização originais, com normalização apenas dos espaços e das quebras de linha. A apresentação árabe usa a direção natural da escrita; a interface do aplicativo continua em português. A busca tem campos separados para o texto original, uma forma sem sinais vocálicos/tatweel e com alif-wasla simplificado, e outra com variantes de alif normalizadas. Esses campos não alteram o conteúdo lido ou copiado. Uma expressão parcialmente vocalizada pode exigir a escrita integral da fonte ou a remoção dos sinais para corresponder a um dos campos.
 
 [Créditos da fonte]({{BASE}}/biblia/ar-vandyck-creditos.txt) · [Validação]({{BASE}}/biblia/ar-vandyck-validacao.json).
+
+
+### Textos em línguas originais
+
+O **Texto Massorético — Westminster Leningrad Codex (WLC)** foi convertido do pacote `hboWLC`. Contém 39 livros, 929 capítulos e 23.213 versículos, mantendo a divisão e a numeração da fonte. O texto está em domínio público; as anotações linguísticas são do **Open Scriptures Hebrew Bible Project**, sob [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Essas anotações, inclusive sua organização convertida para SQLite, permanecem sob a mesma licença. [Créditos completos]({{BASE}}/biblia/he-wlc-creditos.txt) · [Validação]({{BASE}}/biblia/he-wlc-validacao.json).
+
+O **Textus Receptus — edição de Adam Boyd** foi convertido do pacote `grctr`: 27 livros, 260 capítulos e 7.957 versículos. Conforme a introdução fornecida, Robert Adam Boyd colacionou Stephanus 1550, Elzevir 1624 e Scrivener 1881, registrando variantes em notas; este pacote não representa isoladamente uma dessas três edições. A introdução, sua nota, as 342 notas dos livros e 14 subscrições de epístolas foram preservadas. [Créditos completos]({{BASE}}/biblia/grc-textusreceptus-creditos.txt) · [Validação]({{BASE}}/biblia/grc-textusreceptus-validacao.json).
+
+Cada texto possui seu próprio banco. A leitura e a cópia preservam letras, sinais vocálicos e pontuação; apenas espaços e quebras de linha foram normalizados. A pesquisa aceita a forma original ou palavras sem sinais. Os blocos anotados, códigos Strong e dados morfológicos disponíveis ficam em tabelas próprias; não representam uma análise morfológica completa. Os USFM integrais também foram preservados. A interface atual apresenta o texto bíblico; notas, introduções, subscrições e ferramentas lexicais ficam armazenadas para desenvolvimento posterior.

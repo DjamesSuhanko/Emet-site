@@ -1,0 +1,22 @@
+{
+  "livros": 27,
+  "capitulos": 260,
+  "versiculos": 7957,
+  "notas": 342,
+  "colofones": 14,
+  "blocos_anotados": 138126,
+  "com_strong": 138126,
+  "com_morfologia": 0,
+  "documentos": 28,
+  "versiculos_conferidos": 7957,
+  "integridade": "ok",
+  "manifest": {
+    "schema_version": 2,
+    "edition_id": "textus-receptus-grctr",
+    "content_version": "1",
+    "title": "Textus Receptus — edição de Adam Boyd",
+    "url": "grc-textusreceptus-v1.sqlite",
+    "bytes": 19783680,
+    "sha256": "3276d77dd9b0fa25243bff352b3f8aca1138a4a3b7ad97ab42dc9a50dff0759c"
+  }
+}

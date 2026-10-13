@@ -72,6 +72,26 @@
       "description": "Van Dyck · 66 livros · Árabe com vocalização original. Fonte: eBible.org/arb-vd. Pesquisa com e sem sinais vocálicos.",
       "bytes": 34582528,
       "manifest": "https://emet.clavesol.com.br/biblia/ar-vandyck-manifest.json"
+    },
+    {
+      "id": "wlc-massoretic",
+      "title": "Texto Massorético — Westminster Leningrad Codex",
+      "language": "עברית",
+      "language_code": "he",
+      "description": "Texto em hebraico · 39 livros do AT · Westminster Leningrad Codex. Texto em domínio público; anotações: Open Scriptures Hebrew Bible Project, CC BY-SA 3.0 (creativecommons.org/licenses/by-sa/3.0/). Fonte: eBible.org/hboWLC.",
+      "bytes": 49614848,
+      "manifest": "https://emet.clavesol.com.br/biblia/he-wlc-manifest.json",
+      "kind": "original"
+    },
+    {
+      "id": "textus-receptus-grctr",
+      "title": "Textus Receptus — edição de Adam Boyd",
+      "language": "Ελληνικά (αρχαία)",
+      "language_code": "grc",
+      "description": "Texto em grego · 27 livros do NT · Edição de Robert Adam Boyd: colação de Stephanus 1550, Elzevir 1624 e Scrivener 1881. Fonte: eBible.org/grctr.",
+      "bytes": 19783680,
+      "manifest": "https://emet.clavesol.com.br/biblia/grc-textusreceptus-manifest.json",
+      "kind": "original"
     }
   ]
 }

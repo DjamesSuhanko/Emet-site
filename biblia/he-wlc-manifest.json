@@ -1,0 +1,9 @@
+{
+  "schema_version": 2,
+  "edition_id": "wlc-massoretic",
+  "content_version": "1",
+  "title": "Texto Massorético — Westminster Leningrad Codex",
+  "url": "he-wlc-v1.sqlite",
+  "bytes": 49614848,
+  "sha256": "4ba716b702591b77427a74dde7976fcd8a1b5712363f4f8d2b78224b4e6d52f7"
+}
