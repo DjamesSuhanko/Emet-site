@@ -92,6 +92,15 @@
       "bytes": 19783680,
       "manifest": "https://emet.clavesol.com.br/biblia/grc-textusreceptus-manifest.json",
       "kind": "original"
+    },
+    {
+      "id": "luther-1912",
+      "title": "Lutherbibel 1912",
+      "language": "Deutsch",
+      "language_code": "de",
+      "description": "66 Bücher · Lutherbibel 1912 · Historische Schreibweise erhalten. Quelle: eBible.org/deu1912. Gemeinfrei.",
+      "bytes": 7921664,
+      "manifest": "https://emet.clavesol.com.br/biblia/de-luther1912-manifest.json"
     }
   ]
 }

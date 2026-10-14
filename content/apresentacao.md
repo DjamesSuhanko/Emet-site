@@ -22,6 +22,7 @@ No aplicativo, abra **Disponíveis para download** e escolha uma edição na lis
 | Van Dyck — الكتاب المقدس | Árabe | [Arquivo da Bíblia · 34.58 MB]({{BASE}}/biblia/ar-vandyck-v1.sqlite) |
 | Texto Massorético — Westminster Leningrad Codex | Hebraico | [Arquivo · 49,61 MB]({{BASE}}/biblia/he-wlc-v1.sqlite) |
 | Textus Receptus — edição de Adam Boyd | Grego antigo | [Arquivo · 19,78 MB]({{BASE}}/biblia/grc-textusreceptus-v1.sqlite) |
+| Lutherbibel 1912 | Alemão | [Arquivo · 7,92 MB]({{BASE}}/biblia/de-luther1912-v1.sqlite) |
 
 O Emet baixa os arquivos diretamente pelo catálogo. Eles contêm os textos e não são instaladores do aplicativo.
 
@@ -80,3 +81,10 @@ O **Texto Massorético — Westminster Leningrad Codex (WLC)** foi convertido do
 O **Textus Receptus — edição de Adam Boyd** foi convertido do pacote `grctr`: 27 livros, 260 capítulos e 7.957 versículos. Conforme a introdução fornecida, Robert Adam Boyd colacionou Stephanus 1550, Elzevir 1624 e Scrivener 1881, registrando variantes em notas; este pacote não representa isoladamente uma dessas três edições. A introdução, sua nota, as 342 notas dos livros e 14 subscrições de epístolas foram preservadas. [Créditos completos]({{BASE}}/biblia/grc-textusreceptus-creditos.txt) · [Validação]({{BASE}}/biblia/grc-textusreceptus-validacao.json).
 
 Cada texto possui seu próprio banco. A leitura e a cópia preservam letras, sinais vocálicos e pontuação; apenas espaços e quebras de linha foram normalizados. A pesquisa aceita a forma original ou palavras sem sinais. Os blocos anotados, códigos Strong e dados morfológicos disponíveis ficam em tabelas próprias; não representam uma análise morfológica completa. Os USFM integrais também foram preservados. A interface atual apresenta o texto bíblico; notas, introduções, subscrições e ferramentas lexicais ficam armazenadas para desenvolvimento posterior.
+
+
+### Lutherbibel 1912 em alemão
+
+A **Lutherbibel 1912** foi convertida do pacote USFM `deu1912`, fornecido por eBible.org e identificado como tradução de Martin Luther em domínio público. São 66 livros, 1.189 capítulos e 31.102 versículos, com nomes dos livros e grafia alemã preservados, incluindo umlauts e ß. Espaços e quebras de linha foram normalizados. As marcações Strong não são exibidas. A fonte não apresenta títulos de seções nem notas separadas; os trechos introdutórios que integram versículos na fonte foram mantidos nessa posição.
+
+[Créditos da fonte]({{BASE}}/biblia/de-luther1912-creditos.txt) · [Validação]({{BASE}}/biblia/de-luther1912-validacao.json).

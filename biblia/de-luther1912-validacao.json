@@ -1,0 +1,19 @@
+{
+  "livros": 66,
+  "capitulos": 1189,
+  "versiculos": 31102,
+  "titulos": 0,
+  "editoriais": 0,
+  "notas": 0,
+  "versiculos_conferidos": 31102,
+  "integridade": "ok",
+  "manifest": {
+    "schema_version": 2,
+    "edition_id": "luther-1912",
+    "content_version": "1",
+    "title": "Lutherbibel 1912",
+    "url": "de-luther1912-v1.sqlite",
+    "bytes": 7921664,
+    "sha256": "9804445b474e6d1315d549abb3ae6df28cfadc10840aae5926e8563f2e9057cf"
+  }
+}
