@@ -110,6 +110,15 @@
       "description": "66 de cărți · Biblia Traducerea Fidela. © 2015 Brian James Nibbe, Sr. Fonte: eBible.org/ronbtf. Grafia e títulos preservados.",
       "bytes": 8183808,
       "manifest": "https://emet.clavesol.com.br/biblia/ro-fidela-manifest.json"
+    },
+    {
+      "id": "synodal-russyn",
+      "title": "Синодальный перевод",
+      "language": "Русский",
+      "language_code": "ru",
+      "description": "Синодальный перевод · 66 книг · Fonte: eBible.org/russyn. Texto e numeração da fonte preservados. Domínio público.",
+      "bytes": 10063872,
+      "manifest": "https://emet.clavesol.com.br/biblia/ru-synodal-manifest.json"
     }
   ]
 }

@@ -24,6 +24,7 @@ No aplicativo, abra **Disponíveis para download** e escolha uma edição na lis
 | Textus Receptus — edição de Adam Boyd | Grego antigo | [Arquivo · 19,78 MB]({{BASE}}/biblia/grc-textusreceptus-v1.sqlite) |
 | Lutherbibel 1912 | Alemão | [Arquivo · 7,92 MB]({{BASE}}/biblia/de-luther1912-v1.sqlite) |
 | Biblia Traducerea Fidela | Romeno | [Arquivo · 8,18 MB]({{BASE}}/biblia/ro-fidela-v1.sqlite) |
+| Синодальный перевод — Tradução Sinodal | Russo | [Arquivo · 10,06 MB]({{BASE}}/biblia/ru-synodal-v1.sqlite) |
 
 O Emet baixa os arquivos diretamente pelo catálogo. Eles contêm os textos e não são instaladores do aplicativo.
 
@@ -96,3 +97,10 @@ A **Lutherbibel 1912** foi convertida do pacote USFM `deu1912`, fornecido por eB
 A **Biblia Traducerea Fidela** foi convertida do pacote USFM `ronbtf`, fornecido por eBible.org. © 2015 **Brian James Nibbe, Sr.**, identificado na fonte como tradutor; os créditos fornecidos informam uso mediante permissão. São 66 livros, 1.189 capítulos, 31.102 versículos, 133 títulos e 5 sobrescritos, sem notas separadas no arquivo. Nomes dos livros, grafia e sinais diacríticos foram preservados; espaços e quebras de linha foram normalizados. Títulos e sobrescritos ficam separados dos versículos conforme a marcação da fonte.
 
 [Créditos da fonte]({{BASE}}/biblia/ro-fidela-creditos.txt) · [Validação]({{BASE}}/biblia/ro-fidela-validacao.json).
+
+
+### Tradução Sinodal em russo
+
+A **Синодальный перевод** foi convertida do pacote USFM `russyn`, fornecido por eBible.org e identificado como domínio público. São 66 livros, 1.189 capítulos e 31.169 versículos. A numeração segue a fonte, incluindo a organização dos Salmos, sem forçar equivalência com outras edições. Foram preservados 82 elementos editoriais dos Salmos em separado; a fonte não contém títulos temáticos nem notas separadas. Texto cirílico, grafia e pontuação foram mantidos; espaços e quebras de linha foram normalizados.
+
+[Créditos da fonte]({{BASE}}/biblia/ru-synodal-creditos.txt) · [Validação]({{BASE}}/biblia/ru-synodal-validacao.json).

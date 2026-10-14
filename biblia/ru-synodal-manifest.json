@@ -1,0 +1,9 @@
+{
+  "schema_version": 2,
+  "edition_id": "synodal-russyn",
+  "content_version": "1",
+  "title": "Синодальный перевод",
+  "url": "ru-synodal-v1.sqlite",
+  "bytes": 10063872,
+  "sha256": "b4b5e21fc661f1520dcafad26e600906e43a81ca1218b1acba73568d10c25d22"
+}
