@@ -13,7 +13,7 @@ O aplicativo não contém anúncios, ferramentas de análise de comportamento, i
 
 ## Informações armazenadas no aparelho
 
-O Emet armazena localmente as Bíblias instaladas, o catálogo de edições, favoritos, cores de marcação, última posição de leitura por edição, tamanho da letra e preferência de tema. As pesquisas são processadas no aparelho e não são enviadas ao desenvolvedor. O aplicativo não mantém um histórico persistente das palavras pesquisadas.
+O Emet armazena localmente as Bíblias instaladas, o catálogo de edições, notas pessoais sobre versículos, favoritos, cores de marcação, última posição de leitura por edição, tamanho da letra e preferência de tema. As pesquisas são processadas no aparelho e não são enviadas ao desenvolvedor. O aplicativo não mantém um histórico persistente das palavras pesquisadas.
 
 Esses dados ficam na área privada do aplicativo. Favoritos e marcações são separados do arquivo bíblico, para serem preservados quando você remove ou substitui o download. O Emet não oferece sincronização de dados pessoais com um servidor nem entre dispositivos.
 
@@ -21,7 +21,7 @@ O aplicativo desabilita o backup automático de seus dados pelos mecanismos de b
 
 ## Conexões e downloads
 
-Quando você solicita a atualização da lista de Bíblias ou baixa uma edição, o aplicativo se conecta por HTTPS a **emet.clavesol.com.br**, hospedado no GitHub Pages. A conexão transmite ao provedor informações técnicas necessárias à entrega do arquivo, como endereço IP, data e hora da requisição e arquivo solicitado. Favoritos, marcações, consultas e posição de leitura não são incluídos nessas solicitações.
+Quando você solicita a atualização da lista de Bíblias ou baixa uma edição, o aplicativo se conecta por HTTPS a **emet.clavesol.com.br**, hospedado no GitHub Pages. A conexão transmite ao provedor informações técnicas necessárias à entrega do arquivo, como endereço IP, data e hora da requisição e arquivo solicitado. Notas pessoais, favoritos, marcações, consultas e posição de leitura não são incluídos nessas solicitações.
 
 O GitHub informa que registra endereços IP de visitantes do Pages para fins de segurança. O tratamento e o prazo de retenção desses registros são regidos pela [Política de Privacidade do GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). O desenvolvedor não utiliza esses registros para criar perfis de leitura ou publicidade.
 
