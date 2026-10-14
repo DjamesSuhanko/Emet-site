@@ -101,6 +101,15 @@
       "description": "66 Bücher · Lutherbibel 1912 · Historische Schreibweise erhalten. Quelle: eBible.org/deu1912. Gemeinfrei.",
       "bytes": 7921664,
       "manifest": "https://emet.clavesol.com.br/biblia/de-luther1912-manifest.json"
+    },
+    {
+      "id": "fidela-ronbtf",
+      "title": "Biblia Traducerea Fidela",
+      "language": "Română",
+      "language_code": "ro",
+      "description": "66 de cărți · Biblia Traducerea Fidela. © 2015 Brian James Nibbe, Sr. Fonte: eBible.org/ronbtf. Grafia e títulos preservados.",
+      "bytes": 8183808,
+      "manifest": "https://emet.clavesol.com.br/biblia/ro-fidela-manifest.json"
     }
   ]
 }

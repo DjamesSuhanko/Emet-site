@@ -1,0 +1,19 @@
+{
+  "livros": 66,
+  "capitulos": 1189,
+  "versiculos": 31102,
+  "titulos": 133,
+  "editoriais": 5,
+  "notas": 0,
+  "versiculos_conferidos": 31102,
+  "integridade": "ok",
+  "manifest": {
+    "schema_version": 2,
+    "edition_id": "fidela-ronbtf",
+    "content_version": "1",
+    "title": "Biblia Traducerea Fidela",
+    "url": "ro-fidela-v1.sqlite",
+    "bytes": 8183808,
+    "sha256": "a670f71b298f2051a2fe4c33805cb6c091771ed59ede6e2bdb031aedf6568197"
+  }
+}

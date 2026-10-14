@@ -23,6 +23,7 @@ No aplicativo, abra **Disponíveis para download** e escolha uma edição na lis
 | Texto Massorético — Westminster Leningrad Codex | Hebraico | [Arquivo · 49,61 MB]({{BASE}}/biblia/he-wlc-v1.sqlite) |
 | Textus Receptus — edição de Adam Boyd | Grego antigo | [Arquivo · 19,78 MB]({{BASE}}/biblia/grc-textusreceptus-v1.sqlite) |
 | Lutherbibel 1912 | Alemão | [Arquivo · 7,92 MB]({{BASE}}/biblia/de-luther1912-v1.sqlite) |
+| Biblia Traducerea Fidela | Romeno | [Arquivo · 8,18 MB]({{BASE}}/biblia/ro-fidela-v1.sqlite) |
 
 O Emet baixa os arquivos diretamente pelo catálogo. Eles contêm os textos e não são instaladores do aplicativo.
 
@@ -88,3 +89,10 @@ Cada texto possui seu próprio banco. A leitura e a cópia preservam letras, sin
 A **Lutherbibel 1912** foi convertida do pacote USFM `deu1912`, fornecido por eBible.org e identificado como tradução de Martin Luther em domínio público. São 66 livros, 1.189 capítulos e 31.102 versículos, com nomes dos livros e grafia alemã preservados, incluindo umlauts e ß. Espaços e quebras de linha foram normalizados. As marcações Strong não são exibidas. A fonte não apresenta títulos de seções nem notas separadas; os trechos introdutórios que integram versículos na fonte foram mantidos nessa posição.
 
 [Créditos da fonte]({{BASE}}/biblia/de-luther1912-creditos.txt) · [Validação]({{BASE}}/biblia/de-luther1912-validacao.json).
+
+
+### Biblia Traducerea Fidela em romeno
+
+A **Biblia Traducerea Fidela** foi convertida do pacote USFM `ronbtf`, fornecido por eBible.org. © 2015 **Brian James Nibbe, Sr.**, identificado na fonte como tradutor; os créditos fornecidos informam uso mediante permissão. São 66 livros, 1.189 capítulos, 31.102 versículos, 133 títulos e 5 sobrescritos, sem notas separadas no arquivo. Nomes dos livros, grafia e sinais diacríticos foram preservados; espaços e quebras de linha foram normalizados. Títulos e sobrescritos ficam separados dos versículos conforme a marcação da fonte.
+
+[Créditos da fonte]({{BASE}}/biblia/ro-fidela-creditos.txt) · [Validação]({{BASE}}/biblia/ro-fidela-validacao.json).
